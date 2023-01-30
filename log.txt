@@ -1,0 +1,5 @@
+INFO:root:Creating file: C:\Python_projects\Veeam\Replika\Internal Development in QA (SDET) Team_tesk task.pdf
+INFO:root:Creating file: C:\Python_projects\Veeam\Replika\oznameni.pdf
+INFO:root:Creating file: C:\Python_projects\Veeam\Replika\oznameni.jpg
+INFO:root:Creating file: C:\Python_projects\Veeam\Replika\Pozvnka emael.docx
+INFO:root:Copied file C:\Python_projects\Veeam\Source\Python Developer.pdf to C:\Python_projects\Veeam\Replika\Python Developer.pdf
